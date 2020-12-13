@@ -80,7 +80,7 @@ p {
 header {
   background-image: url(../Images/45degreee_fabric_@2x.png);
   border-bottom: 3px solid #d2d2d2d2;
-  text-align: center;
+  text-align:center;
 }
 
 footer.wrapper {
