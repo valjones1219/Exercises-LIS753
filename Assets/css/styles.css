@@ -3,14 +3,13 @@
 }
 
 body {
-  background-color: #edddd4;
+  background-color: #CDB4DB;
   font-family: arial, sans-serif;
   color: #463f3a;
-
 }
 
 .wrapper {
-  background: #ffffff;
+  background: #f8f9fa;
   width: 98%;
   max-width: 800px;
   margin:0 auto;
@@ -18,33 +17,81 @@ body {
 }
 
 h1 {
-  margin-bottom: .5em;
-  text-shadow: 2em;
+  font-family: arial ,sans-serif;
+  color: #cdb4dbff;
+  font-size: 70px;
+  text-align: center;
+  margin-bottom: 0em;
+  margin-left: 0em;
+  text-shadow: 3px 3px 3px #F8F8FF;
+  line-height: 100%;
+  padding-top: 50px;
+
 }
 
 h2 {
-  margin-bottom: .25em;
-  margin-top: 1em;
+  font-family: arial ,sans-serif;
+  color: #FFFFFF;
+  text-shadow: 3px 3px 3px #462301;
+  font-size: 50px;
   text-align: left;
+  margin-left: 1em;
+  margin-top: 0em;
+  margin-bottom: 1em;
+  line-height: 0em;
+  padding-bottom: 0px;
 }
 
-h1, h2 {
-  color: #5a189a;
+h3 {
+  font-family: impact,sans-serif;
+  color: #D61CBA;
+  text-shadow: 3px 3px 3px #462301;
+  font-size: 80px;
+  margin-top: .5em;
+  margin-bottom: 0;
+  text-align:center;
 }
+
+h4 {
+  font-family: arial,sans-serif;
+  color: #0F90B7;
+  font-size: 27px;
+  text-shadow: 1px 1px 1px #462301;
+  text-align: center;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding-top: 20px;
+}
+
+
+h5 {
+  font-family: arial,sans-serif;
+  color: #0F90B7;
+  text-shadow: 1px 1px 1px #462301;
+  font-size: 25px;
+  margin-top: 1em;
+  margin-bottom: 0em;
+  text-align: center;
+}
+
 
 blockquote {
-  border-left: 3px solid #7b2cbf;
+  border-left: 2px solid #7b2cbf;
+  border-right: 2px solid #7b2cbf;
+  border-top: 2px solid #7b2cbf;
+  border-bottom: 2px solid #7b2cbf;
   padding-left: 8px;
   padding-right: 8px;
   padding-top: 6px;
   padding-bottom: 6px;
-  background-color: #f9f9f9;
+  background-color: #FEE4F0;
   margin-left: 0;
   margin-right: 0;
 }
 
 .image {
-  text-align: center;
   margin: 2em 0;
 }
 
@@ -54,7 +101,7 @@ p.caption {
 }
 
 a {
-  color: #7b2cbf;
+  color:#D61CBA;
 }
 
 img {
@@ -66,6 +113,7 @@ ul {
   padding-left: 20px;
   margin-top: 8px;
   color: #463f3a;
+  border-radius: 1em>
 }
 
 li {
@@ -78,8 +126,8 @@ p {
 }
 
 header {
-  background-image: url(../Images/45degreee_fabric_@2x.png);
-  border-bottom: 3px solid #d2d2d2d2;
+  background-image: url(../images/RollYarn_a.png);
+  border-bottom: 4px solid #f8f9fa;
   text-align:center;
 }
 
